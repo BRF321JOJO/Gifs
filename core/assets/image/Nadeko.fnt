@@ -1,0 +1,19 @@
+info face="Nadekosheet.png" size=508 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=32 base=25 scaleW=1527 scaleH=1450 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="Nadekosheet.png"
+chars count=15
+char id=97   x=0        y=0         width=508    height=290 xoffset=0     yoffset=0     xadvance=508    page=0  chnl=0
+char id=98   x=508      y=0         width=508    height=290 xoffset=0     yoffset=0     xadvance=508    page=0  chnl=0
+char id=107  x=1016     y=0         width=508    height=290 xoffset=0     yoffset=0     xadvance=508    page=0  chnl=0
+char id=99   x=0        y=290       width=508    height=290 xoffset=0     yoffset=0     xadvance=508    page=0  chnl=0
+char id=100  x=508      y=290       width=508    height=290 xoffset=0     yoffset=0     xadvance=508    page=0  chnl=0
+char id=108  x=1016     y=290       width=508    height=290 xoffset=0     yoffset=0     xadvance=508    page=0  chnl=0
+char id=101  x=0        y=580       width=508    height=290 xoffset=0     yoffset=0     xadvance=508    page=0  chnl=0
+char id=102  x=508      y=580       width=508    height=290 xoffset=0     yoffset=0     xadvance=508    page=0  chnl=0
+char id=109  x=1016     y=580       width=508    height=290 xoffset=0     yoffset=0     xadvance=508    page=0  chnl=0
+char id=103  x=0        y=870       width=508    height=290 xoffset=0     yoffset=0     xadvance=508    page=0  chnl=0
+char id=104  x=508      y=870       width=508    height=290 xoffset=0     yoffset=0     xadvance=508    page=0  chnl=0
+char id=110  x=1016     y=870       width=508    height=290 xoffset=0     yoffset=0     xadvance=508    page=0  chnl=0
+char id=105  x=0        y=1160      width=508    height=290 xoffset=0     yoffset=0     xadvance=508    page=0  chnl=0
+char id=106  x=508      y=1160      width=508    height=290 xoffset=0     yoffset=0     xadvance=508    page=0  chnl=0
+char id=111  x=1016     y=1160      width=508    height=290 xoffset=0     yoffset=0     xadvance=508    page=0  chnl=0
